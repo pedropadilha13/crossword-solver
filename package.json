@@ -1,0 +1,29 @@
+{
+  "name": "crossword-solver",
+  "version": "1.0.0",
+  "description": "Find existing words with given letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropadilha13/crossword-solver.git"
+  },
+  "keywords": [
+    "crossword",
+    "solver",
+    "words",
+    "check",
+    "exists"
+  ],
+  "author": "Pedro Padilha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedropadilha13/crossword-solver/issues"
+  },
+  "homepage": "https://github.com/pedropadilha13/crossword-solver#readme",
+  "dependencies": {
+    "check-word": "^1.1.0"
+  }
+}
